@@ -1,0 +1,22 @@
+{
+  "name": "cody",
+  "version": "1.0.0",
+  "description": "Test repo for my CP02 criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cody-newman-21/Initial-Repo.git"
+  },
+  "author": "cody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cody-newman-21/Initial-Repo/issues"
+  },
+  "homepage": "https://github.com/cody-newman-21/Initial-Repo#readme",
+  "dependencies": {
+    "jest": "^27.1.1"
+  }
+}
